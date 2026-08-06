@@ -1,0 +1,9 @@
+{
+  "name": "misturnos-api",
+  "version": "1.0.0",
+  "description": "Backend API for MisTurnos - Mercado Pago integration",
+  "private": true,
+  "dependencies": {
+    "mercadopago": "^2.5.0"
+  }
+}
